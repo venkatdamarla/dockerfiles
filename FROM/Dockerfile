@@ -1,2 +1,2 @@
-# The below syntax for BaseOS
+# The below syntax for Base OS
 FROM almalinux:9
